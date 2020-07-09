@@ -1,0 +1,32 @@
+{
+  "name": "shares-scraper",
+  "version": "1.0.0",
+  "description": "Scrape Shared Posts from Pocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/annettemccullough/shares-scraper.git"
+  },
+  "keywords": [
+    "recommendations",
+    "articles",
+    "content",
+    "scraper",
+    "pocket",
+    "medium"
+  ],
+  "author": "Annette McCullough <contact@annettemccullough.com> (https://annettemccullough.com/blog)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annettemccullough/shares-scraper/issues"
+  },
+  "homepage": "https://github.com/annettemccullough/shares-scraper#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "html-entities": "^1.3.1"
+  }
+}
