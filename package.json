@@ -1,6 +1,6 @@
 {
   "name": "shares-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scrape Shared Posts from Pocket",
   "main": "index.js",
   "scripts": {
